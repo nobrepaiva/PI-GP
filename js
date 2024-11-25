@@ -5,9 +5,9 @@ const produtos = [
 { id: 3, nome: "Paracetamol", preco: 8.99, imagem: "paracetamol.jpg" },
 { id: 4, nome: "Vitamina C", preco: 15.99, imagem: "vitamina-c.jpg" },
 { id: 5, nome: "Suplemento", preco: 20.99, imagem: "suplemento.jpg" },
-{ id: 6, nome: "Creme dental", preco: 5.99, imagem: "creme-dental.jpg" },
-{ id: 7, nome: "Shampoo", preco: 18.99, imagem: "shampoo.jpg" },
-{ id: 8, nome: "Condicionador", preco: 18.99, imagem: "condicionador.jpg" }
+{ id: 6, nome: "Dipirona", preco: 5.99, imagem: "dipirona.jpg" },
+{ id: 7, nome: "Anti-Inflamatorio em Gel", preco: 18.99, imagem: "antiinflamatorio.jpg" },
+{ id: 8, nome: "Antialergico", preco: 18.99, imagem: "antialergico.jpg" }
 ];
  
 // Carregar produtos
